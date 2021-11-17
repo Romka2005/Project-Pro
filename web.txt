@@ -1,0 +1,7 @@
+Contact us:
+
+background: #2a3e47;
+button background: #89553b;
+
+About us:
+
